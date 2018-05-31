@@ -1,1 +1,1 @@
-All projects in this repositary is a CERN OHL license.
+All projects in this repository is a CERN OHL license.
