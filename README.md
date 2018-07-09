@@ -1,2 +1,2 @@
 # hardwares
-Hardware for use with STM32F100-303
+Hardware for use with STM32F100C8T6; STM32F103C8T6; STM32F303CBT6
