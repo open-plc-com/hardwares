@@ -4,3 +4,5 @@
 - Has three differences versus "Blue Pill" in pinout.
 
 ![!](green_pill.png)
+
+open-plc.com
