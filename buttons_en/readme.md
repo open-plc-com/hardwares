@@ -20,4 +20,4 @@ In order not to lose the jumper, it can be placed on the free pin of the connect
 
 Circuit board with buttons and its connection to the "Blue Pill":
 
-![sch_ru.png](sch_ru.png "sch_ru.png")
+![sch_en.png](sch_en.png "sch_en.png")
